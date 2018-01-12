@@ -1,0 +1,9 @@
+.avatar {
+    width: 50px;
+}
+nav {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    
+}
